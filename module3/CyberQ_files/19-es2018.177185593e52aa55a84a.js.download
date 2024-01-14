@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[19],{lawv:function(n,o,s){"use strict";s.d(o,"a",(function(){return r}));var e=s("8Y7J");s("wd/R");const t=new e.v("NGX_MOMENT_OPTIONS");class r{static forRoot(n){return{ngModule:r,providers:[{provide:t,useValue:Object.assign({},n)}]}}}}}]);
